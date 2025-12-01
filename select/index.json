@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "恋のシグナルRin rin rin!",
+  "base_artist": "星空 凛(CV.飯田里穂)",
+  "createdAt": "2025-12-01T11:35:05.551089Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋のシグナルRin rin rin!",
+      "artist": "星空凛(CV.飯田里穂)",
+      "has_synced": true,
+      "path": "select/01_恋のシグナルRin_rin_rin!_星空凛(CV.飯田里穂).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋のシグナルRin rin rin!",
+      "artist": "Hoshizora, Rin(CV.Iida, Riho)",
+      "has_synced": true,
+      "path": "select/02_恋のシグナルRin_rin_rin!_Hoshizora,_Rin(CV.Iida,_Riho).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋のシグナルRin rin rin!",
+      "artist": "星空 凛(CV.飯田里穂)",
+      "has_synced": true,
+      "path": "select/03_恋のシグナルRin_rin_rin!_星空_凛(CV.飯田里穂).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "恋のシグナルRin rin rin!",
+      "artist": "星空凛",
+      "has_synced": true,
+      "path": "select/04_恋のシグナルRin_rin_rin!_星空凛.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "恋のシグナルRin rin rin (Off Vocal)",
+      "artist": "星空凛",
+      "has_synced": false,
+      "path": "select/05_恋のシグナルRin_rin_rin_(Off_Vocal)_星空凛.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "恋のシグナルRin rin rin!",
+      "artist": "星空 凛 (CV.飯田里穂)",
+      "has_synced": true,
+      "path": "select/06_恋のシグナルRin_rin_rin!_星空_凛_(CV.飯田里穂).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "恋のシグナルRin rin rin!",
+      "artist": "飯田里穂",
+      "has_synced": true,
+      "path": "select/07_恋のシグナルRin_rin_rin!_飯田里穂.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋のシグナルRin rin rin!",
+      "artist": "飯田里穂",
+      "has_synced": false,
+      "path": "select/pl_01_恋のシグナルRin_rin_rin!_飯田里穂.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "恋のシグナルRin rin rin!",
+      "artist": "飯田里穂",
+      "has_synced": false,
+      "path": "select/pl_02_恋のシグナルRin_rin_rin!_飯田里穂.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "恋のシグナルRin rin rin!",
+      "artist": "飯田里穂",
+      "has_synced": false,
+      "path": "select/pl_03_恋のシグナルRin_rin_rin!_飯田里穂.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "恋のシグナルRin rin rin!",
+      "artist": "飯田里穂",
+      "has_synced": false,
+      "path": "select/pl_04_恋のシグナルRin_rin_rin!_飯田里穂.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "恋のシグナルRin rin rin!",
+      "artist": "飯田里穂",
+      "has_synced": false,
+      "path": "select/pl_05_恋のシグナルRin_rin_rin!_飯田里穂.txt"
+    }
+  ]
+}
